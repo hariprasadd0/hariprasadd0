@@ -5,8 +5,7 @@
  
   <ul>
     <li>Hi, I’m Hariprasad!</li>
-    <li>Web-Mobile developer </li>
-    <li>Currently learning GoLang</li>
+    <li>Web-Mobile developer</li>
     <li>Passionate about startups & tech</li>
   </ul>
 </div>
